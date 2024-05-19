@@ -56,8 +56,8 @@
 <br>
 <br>
 <p align="center">
-    <a href="https://github.com/narayanbavisetti/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=narayanbavisetti&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/avinashwele/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Avinash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashwele&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
