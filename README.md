@@ -7,3 +7,7 @@
 - 🥅 2025 Goals: job in top MNC 
 - ⚡ Fun fact: I love traveling
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/avinashwele/count.svg" />
+</p>
