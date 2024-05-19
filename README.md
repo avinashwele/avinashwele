@@ -4,9 +4,9 @@
 
 <h3 align="center">A Passionate Software Developer </h3>
 
-<h1 align="center">
+<!-- <h1 align="center">
  <img src="https://media.licdn.com/dms/image/D4D16AQGgQC8mu9NWWQ/profile-displaybackgroundimage-shrink_350_1400/0/1713177268590?e=1721865600&v=beta&t=7k8S5KHlCE8xEODS8WEIeyPotiHD85zZbufMap88Vk4" />
-</h1>
+</h1> -->
 
 <br/>
 
