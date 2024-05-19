@@ -43,18 +43,11 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=avinashwele&theme=dark" alt="GitHub Streak" /></a>
-</div>
-
 <br/><br/>
 <hr/>
 <br>
 <br>
+<h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
     <a href="https://github.com/avinashwele/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Avinash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashwele&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
