@@ -31,18 +31,6 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aviashwele/avinashwele/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <br/><br/>
 <hr/>
 <br>
@@ -65,7 +53,6 @@
     <a href="https://github.com/avinashwele/github-readme-stats"><img alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinashwele&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/avinashwele/github-readme-stats"><img alt="Avinash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashwele&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
