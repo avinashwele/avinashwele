@@ -31,10 +31,8 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
-<br/><br/>
+<br/>
 <hr/>
-<br>
-<br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
     <a href="https://github.com/avinashwele/github-readme-streak-stats">
@@ -42,8 +40,6 @@
     </a>
 </p>
 
-
-<br>
 <br>
 
 
