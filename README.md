@@ -51,8 +51,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/avinashwele/github-readme-stats"><img alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinashwele&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/avinashwele/github-readme-stats"><img alt="Avinash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashwele&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Favinashwele%2F&theme=vue-dark" alt="GitHub Streak" /></a>
   <br/>
 
 
