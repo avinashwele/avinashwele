@@ -12,7 +12,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other open source projects
-- 🥅 2025 Goals: job in top MNC 
 - ⚡ Fun fact: I love traveling
 
 <div align="center"> 
@@ -22,7 +21,7 @@
   <a href="https://linkedin.com/in/avinashwele" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://avinashwele.me" target="_blank">
+  <a href="https://avinashwele.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -56,9 +55,9 @@
 
 ## 📊 My Github Stats
 
-  <br/>
+  <!-- <br/>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Favinashwele%2F&theme=vue-dark" alt="GitHub Streak" /></a>
-  <br/>
+  <br/> -->
 
 
 <br/>
